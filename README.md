@@ -1,5 +1,9 @@
 # teapot
 
+Preview
+--
+
+<img width="60%" src="https://github.com/GOSUofP5js/cgworksnake/assets/164286458/df4b8198-328d-4a45-a25d-76ec42e052e3.gif"/>
 
 
 
