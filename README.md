@@ -3,7 +3,7 @@
 Preview
 --
 
-<img width="60%" src="https://github.com/GOSUofP5js/cgworksnake/assets/164286458/df4b8198-328d-4a45-a25d-76ec42e052e3.gif"/>
+<img width="50%" src="https://github.com/GOSUofP5js/teapot/assets/164286458/4b869013-db60-4b19-b121-79da6af0f768"/>
 
 
 
